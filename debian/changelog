@@ -1,0 +1,45 @@
+python-sponge (0.3.1-1) unstable; urgency=low
+
+  * New release. (Closes: #542134)
+  * Fixed debian/control, it should depend on python-routes.
+
+ -- Gabriel Falcão Gonçalves de Moura <gabriel@nacaolivre.org>  Mon, 24 Aug 2009 09:32:53 -0300
+
+python-sponge (0.3.0-1) unstable; urgency=low
+
+  * New release. (Closes: #542134)
+
+ -- Gabriel Falcão Gonçalves de Moura <gabriel@nacaolivre.org>  Mon, 17 Aug 2009 22:42:47 -0300
+
+python-sponge (0.2.1) experimental; urgency=low
+
+  * New release
+  * Fixed the control file.
+
+ -- Gabriel Falcão Gonçalves de Moura <gabriel@nacaolivre.org>  Mon, 03 Aug 2009 03:18:22 -0300
+
+python-sponge (0.2.0) experimental; urgency=low
+
+  * New release.
+  * Removed python-pmock from dependencies.
+  * Added python-mox, python-nose, python-imaging and python-yaml to dependencies.
+
+ -- Gabriel Falcão Gonçalves de Moura <gabriel@nacaolivre.org>  Mon, 03 Aug 2009 02:59:00 -0300
+
+python-sponge (0.1.3) experimental; urgency=low
+
+  * New release, minor bug fix.
+
+ -- Gabriel Falcão Gonçalves de Moura <gabriel@nacaolivre.org>  Sun, 05 Jul 2009 21:10:10 -0300
+
+python-sponge (0.1.1) experimental; urgency=low
+
+  * New release.
+
+ -- Gabriel Falcão Gonçalves de Moura <gabriel@nacaolivre.org>  Sun, 05 Jul 2009 21:09:52 -0300
+
+python-sponge (0.1) experimental; urgency=low
+
+  * Initial release.
+
+ -- Gabriel Falcão Gonçalves de Moura <gabriel@nacaolivre.org>  Sun, 05 Jul 2009 01:03:37 -0300
